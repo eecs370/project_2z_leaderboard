@@ -1,5 +1,7 @@
 Leaderboard notes
 =============
+WARNING: This repository is PUBLICLY visible in order to git github.io to work without paying github $
+
 We are using [Primer Spec](https://github.com/eecs485staff/primer-spec) to generate specs out of markdown files.
 
 All you need to do to update the specs is edit the markdown file and the config file will automatically generate the html.
