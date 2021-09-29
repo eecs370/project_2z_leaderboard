@@ -18,7 +18,8 @@ Accepted submissions ranked by the total number of instructions executed over se
 |---|---|---|---|
 | 1 | vnaray | 2021-09-29 | 696 |
 | 2 | supervnaray | 2021-09-29 | 696 |
-| 3 | nelsontm | 2021-09-29 | 54798 |
+| 3 | megvnaray | 2021-09-29 | 696 |
+| 4 | nelsontm | 2021-09-29 | 54798 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -28,5 +29,6 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 |---|---|---|---|---|---|
 | 1 | vnaray | 2021-09-29 | 696 | 53 | 36888 |
 | 2 | supervnaray | 2021-09-29 | 696 | 53 | 36888 |
-| 3 | nelsontm | 2021-09-29 | 54798 | 32 | 1753536 |
+| 3 | megvnaray | 2021-09-29 | 696 | 53 | 36888 |
+| 4 | nelsontm | 2021-09-29 | 54798 | 32 | 1753536 |
 
