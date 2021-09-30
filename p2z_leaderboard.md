@@ -12,24 +12,14 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST / UTC-5): 2021-09-30 17:55:52.313188
+#### Last Updated (EST / UTC-5): 2021-09-30 17:58:02.685751
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
 
-| Rank  | uniqname | Submission Date | Total Instructions Executed |
-|---|---|---|---|
-| 1 | vnaray | 2021-09-29 | 696 |
-| 2 | eecs370gradebot | 2021-09-30 | 2027 |
-| 3 | nelsontm | 2021-09-29 | 54798 |
-
+No valid submissions received yet :(
 
 # 1. Submissions Ranked by Efficiency
 Accepted submissions ranked by efficiency, where efficiency = total instructions executed * lines of assembly code (lower is better).
 
-| Rank  | uniqname | Submission Date | Total Instructions Executed |Lines of Code | Efficiency |
-|---|---|---|---|---|---|
-| 1 | vnaray | 2021-09-29 | 696 | 53 | 36888 |
-| 2 | eecs370gradebot | 2021-09-30 | 2027 | 78 | 158106 |
-| 3 | nelsontm | 2021-09-29 | 54798 | 32 | 1753536 |
-
+No valid submissions received yet :(
