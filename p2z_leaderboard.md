@@ -11,6 +11,8 @@ Notes:
 - The uniqnames in the table have not yet been checked for whether they follow the rules of the competition (i.e. not using pre-calculated values).
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
+LAST UPDATED: 2021-09-30 16:27:51.613718
+
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
 
