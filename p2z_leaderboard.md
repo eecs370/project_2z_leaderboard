@@ -17,15 +17,9 @@ Accepted submissions ranked by the total number of instructions executed over se
 | Rank  | uniqname | Submission Date | Total Instructions Executed |
 |---|---|---|---|
 | 1 | supervnaray | 2021-09-29 | 696 |
-| 2 | supervnaray | 2021-09-29 | 696 |
-| 3 | supervnaray | 2021-09-29 | 696 |
-| 4 | supervnaray | 2021-09-29 | 696 |
-| 5 | supervnaray | 2021-09-29 | 696 |
-| 6 | supervnaray | 2021-09-29 | 696 |
-| 7 | supervnaray | 2021-09-29 | 696 |
-| 8 | supervnaray | 2021-09-29 | 696 |
-| 9 | vnaray | 2021-09-29 | 696 |
-| 10 | supervnaray | 2021-09-29 | 696 |
+| 2 | vnaray | 2021-09-29 | 696 |
+| 3 | megvnaray | 2021-09-29 | 696 |
+| 4 | nelsontm | 2021-09-29 | 54798 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -34,13 +28,7 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | Rank  | uniqname | Submission Date | Total Instructions Executed |Lines of Code | Efficiency |
 |---|---|---|---|---|---|
 | 1 | supervnaray | 2021-09-29 | 696 | 53 | 36888 |
-| 2 | supervnaray | 2021-09-29 | 696 | 53 | 36888 |
-| 3 | supervnaray | 2021-09-29 | 696 | 53 | 36888 |
-| 4 | supervnaray | 2021-09-29 | 696 | 53 | 36888 |
-| 5 | supervnaray | 2021-09-29 | 696 | 53 | 36888 |
-| 6 | supervnaray | 2021-09-29 | 696 | 53 | 36888 |
-| 7 | supervnaray | 2021-09-29 | 696 | 53 | 36888 |
-| 8 | supervnaray | 2021-09-29 | 696 | 53 | 36888 |
-| 9 | vnaray | 2021-09-29 | 696 | 53 | 36888 |
-| 10 | supervnaray | 2021-09-29 | 696 | 53 | 36888 |
+| 2 | vnaray | 2021-09-29 | 696 | 53 | 36888 |
+| 3 | megvnaray | 2021-09-29 | 696 | 53 | 36888 |
+| 4 | nelsontm | 2021-09-29 | 54798 | 32 | 1753536 |
 
