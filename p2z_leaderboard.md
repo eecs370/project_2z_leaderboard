@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST / UTC-5): 2021-09-30 16:40:47.308806
+#### Last Updated (EST / UTC-5): 2021-09-30 17:31:13.701314
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -21,8 +21,7 @@ Accepted submissions ranked by the total number of instructions executed over se
 |---|---|---|---|
 | 1 | vnaray | 2021-09-29 | 696 |
 | 2 | eecs370gradebot | 2021-09-30 | 2027 |
-| 3 | eecs370gradebot | 2021-09-30 | 2027 |
-| 4 | nelsontm | 2021-09-29 | 54798 |
+| 3 | nelsontm | 2021-09-29 | 54798 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -32,6 +31,5 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 |---|---|---|---|---|---|
 | 1 | vnaray | 2021-09-29 | 696 | 53 | 36888 |
 | 2 | eecs370gradebot | 2021-09-30 | 2027 | 78 | 158106 |
-| 3 | eecs370gradebot | 2021-09-30 | 2027 | 78 | 158106 |
-| 4 | nelsontm | 2021-09-29 | 54798 | 32 | 1753536 |
+| 3 | nelsontm | 2021-09-29 | 54798 | 32 | 1753536 |
 
