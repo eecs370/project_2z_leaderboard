@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST / UTC-5): 2021-10-01 08:01:25.031097
+#### Last Updated (EST / UTC-5): 2021-10-01 17:27:21.184540
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -21,9 +21,14 @@ Accepted submissions ranked by the total number of instructions executed over se
 |---|---|---|---|
 | 1 | kanzhu | 2021-10-01 | 1496 |
 | 2 | henryfl | 2021-10-01 | 1521 |
-| 3 | jerrycmy | 2021-10-01 | 29138 |
-| 4 | mighern | 2021-10-01 | 81979 |
-| 5 | teomi | 2021-10-01 | 109797 |
+| 3 | pbb | 2021-10-01 | 1672 |
+| 4 | zihaowei | 2021-10-01 | 1894 |
+| 5 | xrshen | 2021-10-01 | 4778 |
+| 6 | dddd | 2021-10-01 | 7872 |
+| 7 | jerrycmy | 2021-10-01 | 29138 |
+| 8 | mighern | 2021-10-01 | 81979 |
+| 9 | henrw | 2021-10-01 | 95861 |
+| 10 | teomi | 2021-10-01 | 109797 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -31,9 +36,14 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 
 | Rank  | uniqname | Submission Date | Total Instructions Executed |Lines of Code | Efficiency |
 |---|---|---|---|---|---|
-| 1 | henryfl | 2021-10-01 | 1521 | 39 | 59319 |
-| 2 | kanzhu | 2021-10-01 | 1496 | 53 | 79288 |
-| 3 | jerrycmy | 2021-10-01 | 29138 | 47 | 1369486 |
-| 4 | teomi | 2021-10-01 | 109797 | 32 | 3513504 |
-| 5 | mighern | 2021-10-01 | 81979 | 49 | 4016971 |
+| 1 | pbb | 2021-10-01 | 1672 | 26 | 43472 |
+| 2 | henryfl | 2021-10-01 | 1521 | 39 | 59319 |
+| 3 | zihaowei | 2021-10-01 | 1894 | 32 | 60608 |
+| 4 | kanzhu | 2021-10-01 | 1496 | 53 | 79288 |
+| 5 | xrshen | 2021-10-01 | 4778 | 57 | 272346 |
+| 6 | dddd | 2021-10-01 | 7872 | 113 | 889536 |
+| 7 | jerrycmy | 2021-10-01 | 29138 | 47 | 1369486 |
+| 8 | henrw | 2021-10-01 | 95861 | 29 | 2779969 |
+| 9 | teomi | 2021-10-01 | 109797 | 32 | 3513504 |
+| 10 | mighern | 2021-10-01 | 81979 | 49 | 4016971 |
 
