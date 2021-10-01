@@ -12,16 +12,18 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST / UTC-5): 2021-10-01 00:02:28.741878
+#### Last Updated (EST / UTC-5): 2021-10-01 04:01:38.218413
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
 
 | Rank  | uniqname | Submission Date | Total Instructions Executed |
 |---|---|---|---|
-| 1 | henryfl | 2021-10-01 | 1521 |
-| 2 | jerrycmy | 2021-10-01 | 29138 |
-| 3 | mighern | 2021-10-01 | 81979 |
+| 1 | kanzhu | 2021-10-01 | 1496 |
+| 2 | henryfl | 2021-10-01 | 1521 |
+| 3 | jerrycmy | 2021-10-01 | 29138 |
+| 4 | mighern | 2021-10-01 | 81979 |
+| 5 | teomi | 2021-10-01 | 109797 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -30,6 +32,8 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | Rank  | uniqname | Submission Date | Total Instructions Executed |Lines of Code | Efficiency |
 |---|---|---|---|---|---|
 | 1 | henryfl | 2021-10-01 | 1521 | 39 | 59319 |
-| 2 | jerrycmy | 2021-10-01 | 29138 | 47 | 1369486 |
-| 3 | mighern | 2021-10-01 | 81979 | 49 | 4016971 |
+| 2 | kanzhu | 2021-10-01 | 1496 | 53 | 79288 |
+| 3 | jerrycmy | 2021-10-01 | 29138 | 47 | 1369486 |
+| 4 | teomi | 2021-10-01 | 109797 | 32 | 3513504 |
+| 5 | mighern | 2021-10-01 | 81979 | 49 | 4016971 |
 
