@@ -12,23 +12,23 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST / UTC-5): 2021-10-01 17:27:21.184540
+#### Last Updated (EST / UTC-5): 2021-10-02 04:01:52.776355
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
 
 | Rank  | uniqname | Submission Date | Total Instructions Executed |
 |---|---|---|---|
-| 1 | kanzhu | 2021-10-01 | 1496 |
-| 2 | henryfl | 2021-10-01 | 1521 |
-| 3 | pbb | 2021-10-01 | 1672 |
-| 4 | zihaowei | 2021-10-01 | 1894 |
-| 5 | xrshen | 2021-10-01 | 4778 |
-| 6 | dddd | 2021-10-01 | 7872 |
-| 7 | jerrycmy | 2021-10-01 | 29138 |
-| 8 | mighern | 2021-10-01 | 81979 |
-| 9 | henrw | 2021-10-01 | 95861 |
-| 10 | teomi | 2021-10-01 | 109797 |
+| 1 | henrw | 2021-10-02 | 792 |
+| 2 | luttul | 2021-10-02 | 1141 |
+| 3 | kanzhu | 2021-10-02 | 1250 |
+| 4 | owenhji | 2021-10-02 | 1306 |
+| 5 | pbb | 2021-10-02 | 1346 |
+| 6 | henryfl | 2021-10-01 | 1521 |
+| 7 | zihaowei | 2021-10-01 | 1894 |
+| 8 | xrshen | 2021-10-01 | 4778 |
+| 9 | dddd | 2021-10-02 | 7079 |
+| 10 | jerrycmy | 2021-10-01 | 29138 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -36,14 +36,14 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 
 | Rank  | uniqname | Submission Date | Total Instructions Executed |Lines of Code | Efficiency |
 |---|---|---|---|---|---|
-| 1 | pbb | 2021-10-01 | 1672 | 26 | 43472 |
-| 2 | henryfl | 2021-10-01 | 1521 | 39 | 59319 |
-| 3 | zihaowei | 2021-10-01 | 1894 | 32 | 60608 |
-| 4 | kanzhu | 2021-10-01 | 1496 | 53 | 79288 |
-| 5 | xrshen | 2021-10-01 | 4778 | 57 | 272346 |
-| 6 | dddd | 2021-10-01 | 7872 | 113 | 889536 |
-| 7 | jerrycmy | 2021-10-01 | 29138 | 47 | 1369486 |
-| 8 | henrw | 2021-10-01 | 95861 | 29 | 2779969 |
-| 9 | teomi | 2021-10-01 | 109797 | 32 | 3513504 |
-| 10 | mighern | 2021-10-01 | 81979 | 49 | 4016971 |
+| 1 | owenhji | 2021-10-02 | 1306 | 22 | 28732 |
+| 2 | henrw | 2021-10-02 | 792 | 39 | 30888 |
+| 3 | pbb | 2021-10-02 | 1346 | 23 | 30958 |
+| 4 | luttul | 2021-10-02 | 1141 | 28 | 31948 |
+| 5 | henryfl | 2021-10-01 | 1521 | 39 | 59319 |
+| 6 | zihaowei | 2021-10-01 | 1894 | 32 | 60608 |
+| 7 | kanzhu | 2021-10-01 | 1496 | 53 | 79288 |
+| 8 | xrshen | 2021-10-01 | 4778 | 57 | 272346 |
+| 9 | dddd | 2021-10-01 | 7872 | 113 | 889536 |
+| 10 | jerrycmy | 2021-10-01 | 29138 | 47 | 1369486 |
 
