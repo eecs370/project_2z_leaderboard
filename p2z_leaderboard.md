@@ -12,17 +12,17 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST / UTC-5): 2021-10-02 04:01:52.776355
+#### Last Updated (EST): 2021-10-03 04:01:28.121052
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
 
-| Rank  | uniqname | Submission Date | Total Instructions Executed |
+| Rank  | uniqname | Submission Date (UTC) | Total Instructions Executed |
 |---|---|---|---|
-| 1 | henrw | 2021-10-02 | 792 |
-| 2 | luttul | 2021-10-02 | 1141 |
-| 3 | kanzhu | 2021-10-02 | 1250 |
-| 4 | owenhji | 2021-10-02 | 1306 |
+| 1 | henrw | 2021-10-03 | 772 |
+| 2 | kanzhu | 2021-10-02 | 813 |
+| 3 | luttul | 2021-10-02 | 1141 |
+| 4 | owenhji | 2021-10-02 | 1294 |
 | 5 | pbb | 2021-10-02 | 1346 |
 | 6 | henryfl | 2021-10-01 | 1521 |
 | 7 | zihaowei | 2021-10-01 | 1894 |
@@ -34,10 +34,10 @@ Accepted submissions ranked by the total number of instructions executed over se
 # 1. Submissions Ranked by Efficiency
 Accepted submissions ranked by efficiency, where efficiency = total instructions executed * lines of assembly code (lower is better).
 
-| Rank  | uniqname | Submission Date | Total Instructions Executed |Lines of Code | Efficiency |
+| Rank  | uniqname | Submission Date (UTC) | Total Instructions Executed |Lines of Code | Efficiency |
 |---|---|---|---|---|---|
-| 1 | owenhji | 2021-10-02 | 1306 | 22 | 28732 |
-| 2 | henrw | 2021-10-02 | 792 | 39 | 30888 |
+| 1 | owenhji | 2021-10-02 | 1294 | 19 | 24586 |
+| 2 | henrw | 2021-10-02 | 786 | 39 | 30654 |
 | 3 | pbb | 2021-10-02 | 1346 | 23 | 30958 |
 | 4 | luttul | 2021-10-02 | 1141 | 28 | 31948 |
 | 5 | henryfl | 2021-10-01 | 1521 | 39 | 59319 |
