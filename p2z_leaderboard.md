@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2021-10-05 04:03:17.769537
+#### Last Updated (EST): 2021-10-06 04:02:23.028020
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -20,14 +20,14 @@ Accepted submissions ranked by the total number of instructions executed over se
 | Rank  | uniqname | Submission Date (UTC) | Total Instructions Executed |
 |---|---|---|---|
 | 1 | henrw | 2021-10-05 | 486 |
-| 2 | kanzhu | 2021-10-02 | 813 |
-| 3 | jxn | 2021-10-04 | 845 |
-| 4 | pbb | 2021-10-04 | 1114 |
-| 5 | luttul | 2021-10-02 | 1141 |
-| 6 | houmingc | 2021-10-05 | 1289 |
-| 7 | owenhji | 2021-10-02 | 1294 |
-| 8 | henryfl | 2021-10-01 | 1521 |
-| 9 | apillay | 2021-10-05 | 1626 |
+| 2 | jxn | 2021-10-05 | 701 |
+| 3 | kanzhu | 2021-10-02 | 813 |
+| 4 | pbb | 2021-10-06 | 926 |
+| 5 | houmingc | 2021-10-06 | 966 |
+| 6 | luttul | 2021-10-02 | 1141 |
+| 7 | apillay | 2021-10-06 | 1262 |
+| 8 | owenhji | 2021-10-02 | 1294 |
+| 9 | henryfl | 2021-10-01 | 1521 |
 | 10 | xieleo | 2021-10-03 | 1800 |
 
 
@@ -41,9 +41,9 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 3 | pbb | 2021-10-04 | 1114 | 26 | 28964 |
 | 4 | luttul | 2021-10-02 | 1141 | 28 | 31948 |
 | 5 | jxn | 2021-10-04 | 1089 | 30 | 32670 |
-| 6 | xieleo | 2021-10-03 | 1800 | 29 | 52200 |
-| 7 | henryfl | 2021-10-01 | 1521 | 39 | 59319 |
-| 8 | zihaowei | 2021-10-01 | 1894 | 32 | 60608 |
-| 9 | apillay | 2021-10-05 | 1626 | 40 | 65040 |
+| 6 | apillay | 2021-10-06 | 1262 | 38 | 47956 |
+| 7 | xieleo | 2021-10-03 | 1800 | 29 | 52200 |
+| 8 | henryfl | 2021-10-01 | 1521 | 39 | 59319 |
+| 9 | zihaowei | 2021-10-01 | 1894 | 32 | 60608 |
 | 10 | kanzhu | 2021-10-01 | 1496 | 53 | 79288 |
 
