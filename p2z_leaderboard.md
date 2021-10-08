@@ -47,3 +47,4 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 9 | zihaowei | 2021-10-01 20:50:18.174783 | 1894 | 32 | 60608 |
 | 10 | xsyarctg | 2021-10-08 04:29:36.439447 | 1290 | 55 | 70950 |
 
+test
