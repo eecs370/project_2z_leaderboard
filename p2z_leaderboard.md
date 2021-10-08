@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2021-10-08 18:55:29.477362
+#### Last Updated (EST): 2021-10-08 19:08:21.459592
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -23,12 +23,12 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 2 | jxn | 2021-10-05 / 20:53:23.422583 | 701 |
 | 3 | kanzhu | 2021-10-02 / 19:38:02.640322 | 813 |
 | 4 | pbb | 2021-10-08 / 15:16:33.425309 | 861 |
-| 5 | bigdummy | 2021-10-08 / 15:16:33.425309 | 861 |
-| 6 | houmingc | 2021-10-06 / 08:40:02.568699 | 894 |
-| 7 | luttul | 2021-10-02 / 02:51:13.587375 | 1141 |
-| 8 | apillay | 2021-10-07 / 04:00:21.610393 | 1213 |
-| 9 | xsyarctg | 2021-10-08 / 04:29:36.439447 | 1290 |
-| 10 | owenhji | 2021-10-02 / 14:27:28.003981 | 1294 |
+| 5 | houmingc | 2021-10-06 / 08:40:02.568699 | 894 |
+| 6 | luttul | 2021-10-02 / 02:51:13.587375 | 1141 |
+| 7 | apillay | 2021-10-07 / 04:00:21.610393 | 1213 |
+| 8 | xsyarctg | 2021-10-08 / 04:29:36.439447 | 1290 |
+| 9 | owenhji | 2021-10-02 / 14:27:28.003981 | 1294 |
+| 10 | henryfl | 2021-10-01 / 18:24:18.401267 | 1521 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -42,8 +42,8 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 4 | luttul | 2021-10-02 / 02:51:13.587375 | 1141 | 28 | 31948 |
 | 5 | jxn | 2021-10-04 / 23:03:28.484966 | 1089 | 30 | 32670 |
 | 6 | apillay | 2021-10-07 / 04:00:21.610393 | 1213 | 34 | 41242 |
-| 7 | bigdummy | 2021-10-08 / 15:16:33.425309 | 861 | 60 | 51660 |
-| 8 | xieleo | 2021-10-03 / 19:54:28.711910 | 1800 | 29 | 52200 |
-| 9 | henryfl | 2021-10-01 / 18:24:18.401267 | 1521 | 39 | 59319 |
-| 10 | zihaowei | 2021-10-01 / 20:50:18.174783 | 1894 | 32 | 60608 |
+| 7 | xieleo | 2021-10-03 / 19:54:28.711910 | 1800 | 29 | 52200 |
+| 8 | henryfl | 2021-10-01 / 18:24:18.401267 | 1521 | 39 | 59319 |
+| 9 | zihaowei | 2021-10-01 / 20:50:18.174783 | 1894 | 32 | 60608 |
+| 10 | xsyarctg | 2021-10-08 / 04:29:36.439447 | 1290 | 55 | 70950 |
 
