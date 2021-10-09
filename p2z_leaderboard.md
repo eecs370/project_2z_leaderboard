@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2021-10-08 19:08:21.459592
+#### Last Updated (EST): 2021-10-09 04:05:45.923851
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -24,8 +24,8 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 3 | kanzhu | 2021-10-02 / 19:38:02.640322 | 813 |
 | 4 | pbb | 2021-10-08 / 15:16:33.425309 | 861 |
 | 5 | houmingc | 2021-10-06 / 08:40:02.568699 | 894 |
-| 6 | luttul | 2021-10-02 / 02:51:13.587375 | 1141 |
-| 7 | apillay | 2021-10-07 / 04:00:21.610393 | 1213 |
+| 6 | apillay | 2021-10-09 / 07:28:10.775765 | 1075 |
+| 7 | luttul | 2021-10-02 / 02:51:13.587375 | 1141 |
 | 8 | xsyarctg | 2021-10-08 / 04:29:36.439447 | 1290 |
 | 9 | owenhji | 2021-10-02 / 14:27:28.003981 | 1294 |
 | 10 | henryfl | 2021-10-01 / 18:24:18.401267 | 1521 |
@@ -38,10 +38,10 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 |---|---|---|---|---|---|
 | 1 | henrw | 2021-10-05 / 04:30:48.671967 | 532 | 43 | 22876 |
 | 2 | owenhji | 2021-10-02 / 14:27:28.003981 | 1294 | 19 | 24586 |
-| 3 | pbb | 2021-10-04 / 22:29:35.349070 | 1114 | 26 | 28964 |
-| 4 | luttul | 2021-10-02 / 02:51:13.587375 | 1141 | 28 | 31948 |
-| 5 | jxn | 2021-10-04 / 23:03:28.484966 | 1089 | 30 | 32670 |
-| 6 | apillay | 2021-10-07 / 04:00:21.610393 | 1213 | 34 | 41242 |
+| 3 | apillay | 2021-10-09 / 07:28:10.775765 | 1075 | 25 | 26875 |
+| 4 | pbb | 2021-10-04 / 22:29:35.349070 | 1114 | 26 | 28964 |
+| 5 | luttul | 2021-10-02 / 02:51:13.587375 | 1141 | 28 | 31948 |
+| 6 | jxn | 2021-10-04 / 23:03:28.484966 | 1089 | 30 | 32670 |
 | 7 | xieleo | 2021-10-03 / 19:54:28.711910 | 1800 | 29 | 52200 |
 | 8 | henryfl | 2021-10-01 / 18:24:18.401267 | 1521 | 39 | 59319 |
 | 9 | zihaowei | 2021-10-01 / 20:50:18.174783 | 1894 | 32 | 60608 |
