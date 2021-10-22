@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2021-10-21 04:04:01.187865
+#### Last Updated (EST): 2021-10-22 04:05:48.823924
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -25,15 +25,15 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 4 | pbb | 2021-10-08 / 15:16:33.425309 | 861 |
 | 5 | houmingc | 2021-10-06 / 08:40:02.568699 | 894 |
 | 6 | apillay | 2021-10-09 / 07:28:10.775765 | 1075 |
-| 7 | luttul | 2021-10-02 / 02:51:13.587375 | 1141 |
-| 8 | xsyarctg | 2021-10-08 / 04:29:36.439447 | 1290 |
-| 9 | owenhji | 2021-10-02 / 14:27:28.003981 | 1294 |
-| 10 | lighght | 2021-10-21 / 04:05:17.421846 | 1406 |
-| 11 | patrli | 2021-10-21 / 04:08:03.397690 | 1416 |
-| 12 | henryfl | 2021-10-01 / 18:24:18.401267 | 1521 |
-| 13 | xieleo | 2021-10-03 / 19:54:28.711910 | 1800 |
-| 14 | zihaowei | 2021-10-01 / 20:50:18.174783 | 1894 |
-| 15 | conrevo | 2021-10-15 / 06:55:13.773363 | 1894 |
+| 7 | otyoung | 2021-10-21 / 18:14:16.730041 | 1135 |
+| 8 | luttul | 2021-10-02 / 02:51:13.587375 | 1141 |
+| 9 | xsyarctg | 2021-10-08 / 04:29:36.439447 | 1290 |
+| 10 | owenhji | 2021-10-02 / 14:27:28.003981 | 1294 |
+| 11 | lighght | 2021-10-21 / 04:05:17.421846 | 1406 |
+| 12 | patrli | 2021-10-21 / 04:08:03.397690 | 1416 |
+| 13 | rajinn | 2021-10-22 / 03:38:45.848039 | 1448 |
+| 14 | henryfl | 2021-10-01 / 18:24:18.401267 | 1521 |
+| 15 | andli | 2021-10-22 / 01:49:40.815762 | 1650 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -49,11 +49,11 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 6 | luttul | 2021-10-02 / 02:51:13.587375 | 1141 | 28 | 31948 |
 | 7 | jxn | 2021-10-04 / 23:03:28.484966 | 1089 | 30 | 32670 |
 | 8 | patrli | 2021-10-21 / 04:08:03.397690 | 1416 | 26 | 36816 |
-| 9 | xieleo | 2021-10-03 / 19:54:28.711910 | 1800 | 29 | 52200 |
-| 10 | henryfl | 2021-10-01 / 18:24:18.401267 | 1521 | 39 | 59319 |
-| 11 | zihaowei | 2021-10-01 / 20:50:18.174783 | 1894 | 32 | 60608 |
-| 12 | conrevo | 2021-10-15 / 06:55:13.773363 | 1894 | 33 | 62502 |
-| 13 | xsyarctg | 2021-10-08 / 04:29:36.439447 | 1290 | 55 | 70950 |
-| 14 | kanzhu | 2021-10-01 / 06:34:01.694897 | 1496 | 53 | 79288 |
-| 15 | rajinn | 2021-10-20 / 23:57:29.229549 | 2263 | 36 | 81468 |
+| 9 | rajinn | 2021-10-21 / 22:46:57.435257 | 1452 | 30 | 43560 |
+| 10 | otyoung | 2021-10-21 / 18:14:16.730041 | 1135 | 40 | 45400 |
+| 11 | xieleo | 2021-10-03 / 19:54:28.711910 | 1800 | 29 | 52200 |
+| 12 | andli | 2021-10-22 / 01:49:40.815762 | 1650 | 33 | 54450 |
+| 13 | henryfl | 2021-10-01 / 18:24:18.401267 | 1521 | 39 | 59319 |
+| 14 | zihaowei | 2021-10-01 / 20:50:18.174783 | 1894 | 32 | 60608 |
+| 15 | conrevo | 2021-10-15 / 06:55:13.773363 | 1894 | 33 | 62502 |
 
