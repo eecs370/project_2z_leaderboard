@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2021-10-26 04:15:06.859959
+#### Last Updated (EST): 2021-10-26 11:07:43.551012
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -32,8 +32,8 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 11 | jhgan | 2021-10-25 / 20:08:54.560107 | 823 |
 | 12 | pbb | 2021-10-08 / 15:16:33.425309 | 861 |
 | 13 | houmingc | 2021-10-06 / 08:40:02.568699 | 894 |
-| 14 | apillay | 2021-10-09 / 07:28:10.775765 | 1075 |
-| 15 | luttul | 2021-10-02 / 02:51:13.587375 | 1141 |
+| 14 | xyuxuan | 2021-10-26 / 11:13:01.197001 | 911 |
+| 15 | apillay | 2021-10-09 / 07:28:10.775765 | 1075 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -41,7 +41,7 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 
 | Rank  | uniqname | Submission Time (UTC) | Total Instructions Executed |Lines of Code | Efficiency |
 |---|---|---|---|---|---|
-| 1 | otyoung | 2021-10-26 / 03:55:53.602235 | 733 | 20 | 14660 |
+| 1 | otyoung | 2021-10-26 / 12:50:23.967420 | 727 | 19 | 13813 |
 | 2 | grid | 2021-10-26 / 07:42:58.026328 | 771 | 23 | 17733 |
 | 3 | jhgan | 2021-10-25 / 20:08:54.560107 | 823 | 22 | 18106 |
 | 4 | jhze | 2021-10-22 / 17:47:00.203408 | 639 | 34 | 21726 |
