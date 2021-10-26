@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2021-10-26 18:07:27.774073
+#### Last Updated (EST): 2021-10-26 19:08:03.763422
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -28,7 +28,7 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 7 | otyoung | 2021-10-26 / 16:03:18.566136 | 699 |
 | 8 | jxn | 2021-10-05 / 20:53:23.422583 | 701 |
 | 9 | grid | 2021-10-26 / 18:33:38.022955 | 738 |
-| 10 | rajinn | 2021-10-26 / 21:59:20.161497 | 804 |
+| 10 | rajinn | 2021-10-26 / 23:03:10.632810 | 777 |
 | 11 | kanzhu | 2021-10-02 / 19:38:02.640322 | 813 |
 | 12 | jhgan | 2021-10-25 / 20:08:54.560107 | 823 |
 | 13 | pbb | 2021-10-08 / 15:16:33.425309 | 861 |
@@ -43,8 +43,8 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 |---|---|---|---|---|---|
 | 1 | grid | 2021-10-26 / 18:33:38.022955 | 738 | 18 | 13284 |
 | 2 | otyoung | 2021-10-26 / 12:50:23.967420 | 727 | 19 | 13813 |
-| 3 | jhgan | 2021-10-25 / 20:08:54.560107 | 823 | 22 | 18106 |
-| 4 | rajinn | 2021-10-26 / 21:59:20.161497 | 804 | 23 | 18492 |
+| 3 | rajinn | 2021-10-26 / 23:03:10.632810 | 777 | 21 | 16317 |
+| 4 | jhgan | 2021-10-25 / 20:08:54.560107 | 823 | 22 | 18106 |
 | 5 | jhze | 2021-10-22 / 17:47:00.203408 | 639 | 34 | 21726 |
 | 6 | zhengsc | 2021-10-25 / 19:01:03.612314 | 681 | 32 | 21792 |
 | 7 | henrw | 2021-10-05 / 04:30:48.671967 | 532 | 43 | 22876 |
