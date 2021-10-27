@@ -12,23 +12,23 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2021-10-26 23:07:55.648532
+#### Last Updated (EST): 2021-10-27 00:11:56.182784
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
 
 | Rank  | uniqname | Submission Time (UTC) | Total Instructions Executed |
 |---|---|---|---|
-| 1 | fettes | 2021-10-27 / 02:11:31.613412 | 333 |
-| 2 | abangera | 2021-10-26 / 05:01:40.598624 | 414 |
-| 3 | henrw | 2021-10-05 / 04:21:00.829561 | 486 |
-| 4 | gauthiea | 2021-10-26 / 07:55:33.776821 | 487 |
+| 1 | abangera | 2021-10-27 / 03:41:37.350355 | 330 |
+| 2 | fettes | 2021-10-27 / 02:11:31.613412 | 333 |
+| 3 | gauthiea | 2021-10-27 / 03:51:12.673652 | 384 |
+| 4 | henrw | 2021-10-05 / 04:21:00.829561 | 486 |
 | 5 | toniali | 2021-10-27 / 02:48:27.631269 | 565 |
 | 6 | jhze | 2021-10-22 / 17:47:00.203408 | 639 |
 | 7 | otyoung | 2021-10-27 / 01:36:19.842555 | 655 |
 | 8 | zhengsc | 2021-10-25 / 19:01:03.612314 | 681 |
 | 9 | jxn | 2021-10-27 / 01:48:18.933334 | 697 |
-| 10 | grid | 2021-10-26 / 18:33:38.022955 | 738 |
+| 10 | grid | 2021-10-27 / 03:58:54.095704 | 732 |
 | 11 | rajinn | 2021-10-26 / 23:03:10.632810 | 777 |
 | 12 | kanzhu | 2021-10-02 / 19:38:02.640322 | 813 |
 | 13 | jhgan | 2021-10-25 / 20:08:54.560107 | 823 |
@@ -42,7 +42,7 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | Rank  | uniqname | Submission Time (UTC) | Total Instructions Executed |Lines of Code | Efficiency |
 |---|---|---|---|---|---|
 | 1 | otyoung | 2021-10-27 / 01:25:57.018691 | 721 | 18 | 12978 |
-| 2 | grid | 2021-10-26 / 18:33:38.022955 | 738 | 18 | 13284 |
+| 2 | grid | 2021-10-27 / 03:58:54.095704 | 732 | 18 | 13176 |
 | 3 | rajinn | 2021-10-26 / 23:03:10.632810 | 777 | 21 | 16317 |
 | 4 | jhgan | 2021-10-25 / 20:08:54.560107 | 823 | 22 | 18106 |
 | 5 | jhze | 2021-10-22 / 17:47:00.203408 | 639 | 34 | 21726 |
@@ -51,7 +51,7 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 8 | lighght | 2021-10-21 / 04:05:17.421846 | 1406 | 17 | 23902 |
 | 9 | owenhji | 2021-10-02 / 14:27:28.003981 | 1294 | 19 | 24586 |
 | 10 | apillay | 2021-10-16 / 06:39:53.751596 | 1075 | 24 | 25800 |
-| 11 | gauthiea | 2021-10-26 / 07:55:33.776821 | 487 | 58 | 28246 |
+| 11 | gauthiea | 2021-10-27 / 03:51:12.673652 | 384 | 72 | 27648 |
 | 12 | pbb | 2021-10-04 / 22:29:35.349070 | 1114 | 26 | 28964 |
 | 13 | fettes | 2021-10-25 / 23:44:17.581229 | 499 | 64 | 31936 |
 | 14 | luttul | 2021-10-02 / 02:51:13.587375 | 1141 | 28 | 31948 |
