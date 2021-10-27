@@ -12,24 +12,24 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2021-10-26 22:09:29.455445
+#### Last Updated (EST): 2021-10-26 23:07:55.648532
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
 
 | Rank  | uniqname | Submission Time (UTC) | Total Instructions Executed |
 |---|---|---|---|
-| 1 | fettes | 2021-10-26 / 06:06:31.883287 | 364 |
+| 1 | fettes | 2021-10-27 / 02:11:31.613412 | 333 |
 | 2 | abangera | 2021-10-26 / 05:01:40.598624 | 414 |
 | 3 | henrw | 2021-10-05 / 04:21:00.829561 | 486 |
 | 4 | gauthiea | 2021-10-26 / 07:55:33.776821 | 487 |
-| 5 | jhze | 2021-10-22 / 17:47:00.203408 | 639 |
-| 6 | otyoung | 2021-10-27 / 01:36:19.842555 | 655 |
-| 7 | zhengsc | 2021-10-25 / 19:01:03.612314 | 681 |
-| 8 | jxn | 2021-10-27 / 01:48:18.933334 | 697 |
-| 9 | grid | 2021-10-26 / 18:33:38.022955 | 738 |
-| 10 | rajinn | 2021-10-26 / 23:03:10.632810 | 777 |
-| 11 | toniali | 2021-10-27 / 00:25:19.475797 | 788 |
+| 5 | toniali | 2021-10-27 / 02:48:27.631269 | 565 |
+| 6 | jhze | 2021-10-22 / 17:47:00.203408 | 639 |
+| 7 | otyoung | 2021-10-27 / 01:36:19.842555 | 655 |
+| 8 | zhengsc | 2021-10-25 / 19:01:03.612314 | 681 |
+| 9 | jxn | 2021-10-27 / 01:48:18.933334 | 697 |
+| 10 | grid | 2021-10-26 / 18:33:38.022955 | 738 |
+| 11 | rajinn | 2021-10-26 / 23:03:10.632810 | 777 |
 | 12 | kanzhu | 2021-10-02 / 19:38:02.640322 | 813 |
 | 13 | jhgan | 2021-10-25 / 20:08:54.560107 | 823 |
 | 14 | pbb | 2021-10-08 / 15:16:33.425309 | 861 |
