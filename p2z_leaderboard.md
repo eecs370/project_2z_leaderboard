@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2021-10-26 19:08:03.763422
+#### Last Updated (EST): 2021-10-26 20:07:29.566845
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -32,8 +32,8 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 11 | kanzhu | 2021-10-02 / 19:38:02.640322 | 813 |
 | 12 | jhgan | 2021-10-25 / 20:08:54.560107 | 823 |
 | 13 | pbb | 2021-10-08 / 15:16:33.425309 | 861 |
-| 14 | houmingc | 2021-10-06 / 08:40:02.568699 | 894 |
-| 15 | xyuxuan | 2021-10-26 / 11:13:01.197001 | 911 |
+| 14 | toniali | 2021-10-26 / 23:50:46.890394 | 886 |
+| 15 | houmingc | 2021-10-06 / 08:40:02.568699 | 894 |
 
 
 # 1. Submissions Ranked by Efficiency
