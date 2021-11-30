@@ -61,10 +61,17 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 Congrats to the 2Z winners! 🥳
 
 Anurag Bangera | [Slides](https://docs.google.com/presentation/d/1oLkZSVX47eOYVya4rxmdZ5FJvtOAhgRlJrJzLoTNwRo/edit?usp=sharing)
-Haoxiang Fei | [Slides](https://docs.google.com/presentation/d/1oLkZSVX47eOYVya4rxmdZ5FJvtOAhgRlJrJzLoTNwRo/edit?usp=sharing),[Video](https://drive.google.com/file/d/1U8QATQZ36nfDKc4Tlsx29bl4EFW0ViAx/view?usp=sharing)
+
+Haoxiang Fei | [Slides](https://drive.google.com/file/d/1iuurEA4aR9pPI0ZorkfEKubl-OkDXOqO/view?usp=sharing),[Video](https://drive.google.com/file/d/1U8QATQZ36nfDKc4Tlsx29bl4EFW0ViAx/view?usp=sharing)
+
 Aidan Gauthier | [Youtube](https://www.youtube.com/watch?v=QfM-XhBVV6Y&t=2s)
+
 Muzhe Wu | [Video](https://drive.google.com/file/d/1qH22NqwGpGUPxn22Ig2LGYiz7ZrCqKjd/view?usp=sharing)
+
 Owen Young | [Video](https://drive.google.com/file/d/1bMHLjAvc22A0nbauG2JLBs3-wGTXY_cp/view?usp=sharing)
+
 Chengze He | [Video](https://drive.google.com/file/d/1scaaFdsIRDq7Qdf29Uk8pgTg2xeECufD/view?usp=sharing)
+
 Rajin Nagpal | * 
- Jihong Gan | [Video](https://drive.google.com/file/d/1j9DQLLUi6zzEM6pn8n0WYW3KO3ab7OoJ/view?usp=sharing) 
+
+Jihong Gan | [Video](https://drive.google.com/file/d/1j9DQLLUi6zzEM6pn8n0WYW3KO3ab7OoJ/view?usp=sharing) 
