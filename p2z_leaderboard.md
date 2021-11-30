@@ -58,15 +58,14 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 15 | jxn | 2021-10-04 / 23:03:28.484966 | 1089 | 30 | 32670 |
 
 # 2. 2Z Winners & Presentations
-| uniqname | Name           | Presentation [Google Drive](https://docs.google.com/document/d/1pdnHa-YZOpMpZl4HH-U6aSHfXCWIQgojW3oQgRKQFLw/edit?usp=sharing)                                                                              |
-|----------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| abangera | Anurag Bangera | [Slides](https://docs.google.com/presentation/d/1oLkZSVX47eOYVya4rxmdZ5FJvtOAhgRlJrJzLoTNwRo/edit?usp=sharing)                                                                                             |
-| fettes   | Haoxiang Fei   | [Slides](https://docs.google.com/presentation/d/1oLkZSVX47eOYVya4rxmdZ5FJvtOAhgRlJrJzLoTNwRo/edit?usp=sharing),[Video](https://drive.google.com/file/d/1U8QATQZ36nfDKc4Tlsx29bl4EFW0ViAx/view?usp=sharing) |
-| gauthiea | Aidan Gauthier | [Youtube](https://www.youtube.com/watch?v=QfM-XhBVV6Y&t=2s)                                                                                                                                                |
-| henrw    | Muzhe Wu       | [Video](https://drive.google.com/file/d/1qH22NqwGpGUPxn22Ig2LGYiz7ZrCqKjd/view?usp=sharing)                                                                                                                |
-| otyoung  | Owen Young     | [Video](https://drive.google.com/file/d/1bMHLjAvc22A0nbauG2JLBs3-wGTXY_cp/view?usp=sharing)                                                                                                                |
-| grid     | Chengze He     | [Video](https://drive.google.com/file/d/1scaaFdsIRDq7Qdf29Uk8pgTg2xeECufD/view?usp=sharing)                                                                                                                |
-| rajinn   | Rajin Nagpal   |                                                                                                                                                                                                            |
-| jhgan    | Jihong Gan     | [Video](https://drive.google.com/file/d/1j9DQLLUi6zzEM6pn8n0WYW3KO3ab7OoJ/view?usp=sharing)                                                                                                                |
-
-
+Congrats to the 2Z winners! 🥳
+| uniqname | Name | Presentation [Google Drive](https://docs.google.com/document/d/1pdnHa-YZOpMpZl4HH-U6aSHfXCWIQgojW3oQgRKQFLw/edit?usp=sharing) |
+|---|---|---|
+| abangera | Anurag Bangera | [Slides](https://docs.google.com/presentation/d/1oLkZSVX47eOYVya4rxmdZ5FJvtOAhgRlJrJzLoTNwRo/edit?usp=sharing) |
+| fettes | Haoxiang Fei | [Slides](https://docs.google.com/presentation/d/1oLkZSVX47eOYVya4rxmdZ5FJvtOAhgRlJrJzLoTNwRo/edit?usp=sharing),[Video](https://drive.google.com/file/d/1U8QATQZ36nfDKc4Tlsx29bl4EFW0ViAx/view?usp=sharing) |
+| gauthiea | Aidan Gauthier | [Youtube](https://www.youtube.com/watch?v=QfM-XhBVV6Y&t=2s) |
+| henrw | Muzhe Wu | [Video](https://drive.google.com/file/d/1qH22NqwGpGUPxn22Ig2LGYiz7ZrCqKjd/view?usp=sharing) |
+| otyoung | Owen Young | [Video](https://drive.google.com/file/d/1bMHLjAvc22A0nbauG2JLBs3-wGTXY_cp/view?usp=sharing) |
+| grid | Chengze He | [Video](https://drive.google.com/file/d/1scaaFdsIRDq7Qdf29Uk8pgTg2xeECufD/view?usp=sharing) |
+| rajinn | Rajin Nagpal | |
+| jhgan | Jihong Gan | [Video](https://drive.google.com/file/d/1j9DQLLUi6zzEM6pn8n0WYW3KO3ab7OoJ/view?usp=sharing) |
