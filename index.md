@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-02-11 23:34:34.328642
+#### Last Updated (EST): 2022-02-12 00:34:32.696306
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -20,9 +20,10 @@ Accepted submissions ranked by the total number of instructions executed over se
 | Rank  | uniqname | Submission Time (UTC) | Total Instructions Executed |
 |---|---|---|---|
 | 1 | arjav | 2022-01-30 / 23:39:46.281054 | 3308 |
-| 2 | ngur | 2022-02-10 / 04:11:57.155544 | 60537 |
-| 3 | vqle | 2022-02-12 / 03:40:54.375269 | 95867 |
-| 4 | zkawoosa | 2022-01-28 / 20:56:56.675911 | 95985 |
+| 2 | leeyongs | 2022-02-12 / 05:12:07.864170 | 45541 |
+| 3 | ngur | 2022-02-10 / 04:11:57.155544 | 60537 |
+| 4 | vqle | 2022-02-12 / 03:40:54.375269 | 95867 |
+| 5 | zkawoosa | 2022-01-28 / 20:56:56.675911 | 95985 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -31,7 +32,8 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | Rank  | uniqname | Submission Time (UTC) | Total Instructions Executed |Lines of Code | Efficiency |
 |---|---|---|---|---|---|
 | 1 | arjav | 2022-01-30 / 23:39:46.281054 | 3308 | 38 | 125704 |
-| 2 | vqle | 2022-02-12 / 03:40:54.375269 | 95867 | 29 | 2780143 |
-| 3 | ngur | 2022-02-10 / 04:11:57.155544 | 60537 | 48 | 2905776 |
-| 4 | zkawoosa | 2022-01-28 / 20:56:56.675911 | 95985 | 44 | 4223340 |
+| 2 | leeyongs | 2022-02-12 / 05:12:07.864170 | 45541 | 37 | 1685017 |
+| 3 | vqle | 2022-02-12 / 03:40:54.375269 | 95867 | 29 | 2780143 |
+| 4 | ngur | 2022-02-10 / 04:11:57.155544 | 60537 | 48 | 2905776 |
+| 5 | zkawoosa | 2022-01-28 / 20:56:56.675911 | 95985 | 44 | 4223340 |
 
