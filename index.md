@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-02-20 16:48:57.609532
+#### Last Updated (EST): 2022-02-20 17:48:36.203277
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -45,8 +45,8 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 2 | heyix | 2022-02-16 / 16:03:35.155758 | 1570 | 23 | 36110 |
 | 3 | lmaksin | 2022-02-19 / 23:17:01.582721 | 1094 | 40 | 43760 |
 | 4 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 | 37 | 59533 |
-| 5 | elytle | 2022-02-18 / 02:02:32.768286 | 2686 | 28 | 75208 |
-| 6 | mattbatw | 2022-02-17 / 17:15:07.056518 | 1816 | 43 | 78088 |
+| 5 | mattbatw | 2022-02-20 / 21:54:42.134769 | 1868 | 38 | 70984 |
+| 6 | elytle | 2022-02-18 / 02:02:32.768286 | 2686 | 28 | 75208 |
 | 7 | gshaurya | 2022-02-16 / 16:52:28.471468 | 2856 | 44 | 125664 |
 | 8 | arjav | 2022-01-30 / 23:39:46.281054 | 3308 | 38 | 125704 |
 | 9 | zengyw | 2022-02-19 / 21:47:16.153782 | 5338 | 88 | 469744 |
@@ -55,5 +55,5 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 12 | maxhk | 2022-02-15 / 16:00:05.391183 | 64573 | 39 | 2518347 |
 | 13 | vqle | 2022-02-12 / 17:23:19.934642 | 95867 | 28 | 2684276 |
 | 14 | yngchch | 2022-02-17 / 21:08:54.170073 | 92455 | 30 | 2773650 |
-| 15 | mhoualla | 2022-02-15 / 05:00:21.324326 | 99351 | 28 | 2781828 |
+| 15 | crsnell | 2022-02-20 / 21:56:54.627576 | 95867 | 29 | 2780143 |
 
