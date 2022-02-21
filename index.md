@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-02-21 12:48:29.787477
+#### Last Updated (EST): 2022-02-21 13:49:13.348379
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -31,8 +31,8 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 10 | arjav | 2022-01-30 / 23:39:46.281054 | 3308 |
 | 11 | zengyw | 2022-02-19 / 21:47:16.153782 | 5338 |
 | 12 | joselvdm | 2022-02-21 / 01:13:39.758401 | 6212 |
-| 13 | ltbirchm | 2022-02-12 / 07:29:53.454263 | 35167 |
-| 14 | crsnell | 2022-02-21 / 06:32:12.954075 | 35173 |
+| 13 | crsnell | 2022-02-21 / 18:11:17.199123 | 31421 |
+| 14 | ltbirchm | 2022-02-12 / 07:29:53.454263 | 35167 |
 | 15 | leeyongs | 2022-02-12 / 05:12:07.864170 | 45541 |
 
 
@@ -53,7 +53,7 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 10 | arjav | 2022-01-30 / 23:39:46.281054 | 3308 | 38 | 125704 |
 | 11 | zengyw | 2022-02-19 / 21:47:16.153782 | 5338 | 88 | 469744 |
 | 12 | joselvdm | 2022-02-21 / 01:13:39.758401 | 6212 | 125 | 776500 |
-| 13 | crsnell | 2022-02-21 / 06:32:12.954075 | 35173 | 36 | 1266228 |
+| 13 | crsnell | 2022-02-21 / 18:11:17.199123 | 31421 | 36 | 1131156 |
 | 14 | ltbirchm | 2022-02-12 / 07:29:53.454263 | 35167 | 42 | 1477014 |
 | 15 | leeyongs | 2022-02-12 / 05:12:07.864170 | 45541 | 37 | 1685017 |
 
