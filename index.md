@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-02-21 00:48:30.062695
+#### Last Updated (EST): 2022-02-21 09:49:00.836403
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -21,7 +21,7 @@ Accepted submissions ranked by the total number of instructions executed over se
 |---|---|---|---|
 | 1 | lmaksin | 2022-02-19 / 23:17:01.582721 | 1094 |
 | 2 | salikasl | 2022-02-20 / 14:47:03.087177 | 1266 |
-| 3 | heyix | 2022-02-16 / 16:03:35.155758 | 1570 |
+| 3 | heyix | 2022-02-21 / 08:13:45.296549 | 1290 |
 | 4 | zeweiyu | 2022-02-20 / 23:12:13.153854 | 1570 |
 | 5 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 |
 | 6 | mattbatw | 2022-02-17 / 17:15:07.056518 | 1816 |
@@ -32,8 +32,8 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 11 | zengyw | 2022-02-19 / 21:47:16.153782 | 5338 |
 | 12 | joselvdm | 2022-02-21 / 01:13:39.758401 | 6212 |
 | 13 | ltbirchm | 2022-02-12 / 07:29:53.454263 | 35167 |
-| 14 | leeyongs | 2022-02-12 / 05:12:07.864170 | 45541 |
-| 15 | crsnell | 2022-02-20 / 23:48:24.687168 | 54139 |
+| 14 | crsnell | 2022-02-21 / 06:32:12.954075 | 35173 |
+| 15 | leeyongs | 2022-02-12 / 05:12:07.864170 | 45541 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -42,7 +42,7 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | Rank  | uniqname | Submission Time (UTC) | Total Instructions Executed |Lines of Code | Efficiency |
 |---|---|---|---|---|---|
 | 1 | salikasl | 2022-02-20 / 14:47:03.087177 | 1266 | 19 | 24054 |
-| 2 | heyix | 2022-02-16 / 16:03:35.155758 | 1570 | 23 | 36110 |
+| 2 | heyix | 2022-02-21 / 07:57:24.421385 | 1558 | 21 | 32718 |
 | 3 | zeweiyu | 2022-02-20 / 23:12:13.153854 | 1570 | 23 | 36110 |
 | 4 | lmaksin | 2022-02-19 / 23:17:01.582721 | 1094 | 40 | 43760 |
 | 5 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 | 37 | 59533 |
@@ -53,7 +53,7 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 10 | arjav | 2022-01-30 / 23:39:46.281054 | 3308 | 38 | 125704 |
 | 11 | zengyw | 2022-02-19 / 21:47:16.153782 | 5338 | 88 | 469744 |
 | 12 | joselvdm | 2022-02-21 / 01:13:39.758401 | 6212 | 125 | 776500 |
-| 13 | ltbirchm | 2022-02-12 / 07:29:53.454263 | 35167 | 42 | 1477014 |
-| 14 | leeyongs | 2022-02-12 / 05:12:07.864170 | 45541 | 37 | 1685017 |
-| 15 | crsnell | 2022-02-20 / 23:48:24.687168 | 54139 | 32 | 1732448 |
+| 13 | crsnell | 2022-02-21 / 06:32:12.954075 | 35173 | 36 | 1266228 |
+| 14 | ltbirchm | 2022-02-12 / 07:29:53.454263 | 35167 | 42 | 1477014 |
+| 15 | leeyongs | 2022-02-12 / 05:12:07.864170 | 45541 | 37 | 1685017 |
 
