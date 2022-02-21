@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-02-20 18:48:30.074735
+#### Last Updated (EST): 2022-02-20 19:48:49.994504
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -31,9 +31,9 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 10 | zengyw | 2022-02-19 / 21:47:16.153782 | 5338 |
 | 11 | ltbirchm | 2022-02-12 / 07:29:53.454263 | 35167 |
 | 12 | leeyongs | 2022-02-12 / 05:12:07.864170 | 45541 |
-| 13 | ngur | 2022-02-10 / 04:11:57.155544 | 60537 |
-| 14 | maxhk | 2022-02-15 / 16:00:05.391183 | 64573 |
-| 15 | lasyam | 2022-02-20 / 03:52:58.248860 | 73279 |
+| 13 | crsnell | 2022-02-20 / 23:48:24.687168 | 54139 |
+| 14 | ngur | 2022-02-10 / 04:11:57.155544 | 60537 |
+| 15 | maxhk | 2022-02-15 / 16:00:05.391183 | 64573 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -53,7 +53,7 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 10 | zengyw | 2022-02-19 / 21:47:16.153782 | 5338 | 88 | 469744 |
 | 11 | ltbirchm | 2022-02-12 / 07:29:53.454263 | 35167 | 42 | 1477014 |
 | 12 | leeyongs | 2022-02-12 / 05:12:07.864170 | 45541 | 37 | 1685017 |
-| 13 | maxhk | 2022-02-15 / 16:00:05.391183 | 64573 | 39 | 2518347 |
-| 14 | vqle | 2022-02-12 / 17:23:19.934642 | 95867 | 28 | 2684276 |
-| 15 | yngchch | 2022-02-17 / 21:08:54.170073 | 92455 | 30 | 2773650 |
+| 13 | crsnell | 2022-02-20 / 23:48:24.687168 | 54139 | 32 | 1732448 |
+| 14 | maxhk | 2022-02-15 / 16:00:05.391183 | 64573 | 39 | 2518347 |
+| 15 | vqle | 2022-02-12 / 17:23:19.934642 | 95867 | 28 | 2684276 |
 
