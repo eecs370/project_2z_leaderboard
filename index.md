@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-02-20 19:48:49.994504
+#### Last Updated (EST): 2022-02-20 20:49:00.895482
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -29,11 +29,11 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 8 | gshaurya | 2022-02-16 / 16:52:28.471468 | 2856 |
 | 9 | arjav | 2022-01-30 / 23:39:46.281054 | 3308 |
 | 10 | zengyw | 2022-02-19 / 21:47:16.153782 | 5338 |
-| 11 | ltbirchm | 2022-02-12 / 07:29:53.454263 | 35167 |
-| 12 | leeyongs | 2022-02-12 / 05:12:07.864170 | 45541 |
-| 13 | crsnell | 2022-02-20 / 23:48:24.687168 | 54139 |
-| 14 | ngur | 2022-02-10 / 04:11:57.155544 | 60537 |
-| 15 | maxhk | 2022-02-15 / 16:00:05.391183 | 64573 |
+| 11 | joselvdm | 2022-02-21 / 01:13:39.758401 | 6212 |
+| 12 | ltbirchm | 2022-02-12 / 07:29:53.454263 | 35167 |
+| 13 | leeyongs | 2022-02-12 / 05:12:07.864170 | 45541 |
+| 14 | crsnell | 2022-02-20 / 23:48:24.687168 | 54139 |
+| 15 | ngur | 2022-02-10 / 04:11:57.155544 | 60537 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -51,9 +51,9 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 8 | gshaurya | 2022-02-16 / 16:52:28.471468 | 2856 | 44 | 125664 |
 | 9 | arjav | 2022-01-30 / 23:39:46.281054 | 3308 | 38 | 125704 |
 | 10 | zengyw | 2022-02-19 / 21:47:16.153782 | 5338 | 88 | 469744 |
-| 11 | ltbirchm | 2022-02-12 / 07:29:53.454263 | 35167 | 42 | 1477014 |
-| 12 | leeyongs | 2022-02-12 / 05:12:07.864170 | 45541 | 37 | 1685017 |
-| 13 | crsnell | 2022-02-20 / 23:48:24.687168 | 54139 | 32 | 1732448 |
-| 14 | maxhk | 2022-02-15 / 16:00:05.391183 | 64573 | 39 | 2518347 |
-| 15 | vqle | 2022-02-12 / 17:23:19.934642 | 95867 | 28 | 2684276 |
+| 11 | joselvdm | 2022-02-21 / 01:13:39.758401 | 6212 | 125 | 776500 |
+| 12 | ltbirchm | 2022-02-12 / 07:29:53.454263 | 35167 | 42 | 1477014 |
+| 13 | leeyongs | 2022-02-12 / 05:12:07.864170 | 45541 | 37 | 1685017 |
+| 14 | crsnell | 2022-02-20 / 23:48:24.687168 | 54139 | 32 | 1732448 |
+| 15 | maxhk | 2022-02-15 / 16:00:05.391183 | 64573 | 39 | 2518347 |
 
