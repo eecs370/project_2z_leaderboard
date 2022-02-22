@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-02-22 11:48:55.300103
+#### Last Updated (EST): 2022-02-22 12:49:16.837245
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -20,8 +20,8 @@ Accepted submissions ranked by the total number of instructions executed over se
 | Rank  | uniqname | Submission Time (UTC) | Total Instructions Executed |
 |---|---|---|---|
 | 1 | lmaksin | 2022-02-22 / 15:36:46.792661 | 686 |
-| 2 | jiaweihe | 2022-02-22 / 14:17:35.894245 | 981 |
-| 3 | salikasl | 2022-02-22 / 05:10:21.007804 | 1091 |
+| 2 | jiaweihe | 2022-02-22 / 16:53:42.470111 | 756 |
+| 3 | salikasl | 2022-02-22 / 16:52:09.824581 | 1037 |
 | 4 | heyix | 2022-02-21 / 08:13:45.296549 | 1290 |
 | 5 | zeweiyu | 2022-02-20 / 23:12:13.153854 | 1570 |
 | 6 | aidanxue | 2022-02-22 / 01:10:41.498574 | 1582 |
@@ -44,9 +44,9 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 1 | lmaksin | 2022-02-22 / 15:36:46.792661 | 686 | 23 | 15778 |
 | 2 | salikasl | 2022-02-20 / 14:47:03.087177 | 1266 | 19 | 24054 |
 | 3 | heyix | 2022-02-21 / 15:40:09.701637 | 1390 | 20 | 27800 |
-| 4 | zeweiyu | 2022-02-20 / 23:12:13.153854 | 1570 | 23 | 36110 |
-| 5 | aidanxue | 2022-02-22 / 01:10:41.498574 | 1582 | 26 | 41132 |
-| 6 | jiaweihe | 2022-02-22 / 14:17:35.894245 | 981 | 49 | 48069 |
+| 4 | jiaweihe | 2022-02-22 / 16:53:42.470111 | 756 | 37 | 27972 |
+| 5 | zeweiyu | 2022-02-20 / 23:12:13.153854 | 1570 | 23 | 36110 |
+| 6 | aidanxue | 2022-02-22 / 01:10:41.498574 | 1582 | 26 | 41132 |
 | 7 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 | 37 | 59533 |
 | 8 | mattbatw | 2022-02-20 / 21:54:42.134769 | 1868 | 38 | 70984 |
 | 9 | elytle | 2022-02-18 / 02:02:32.768286 | 2686 | 28 | 75208 |
