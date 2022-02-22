@@ -12,14 +12,14 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-02-22 09:50:56.924593
+#### Last Updated (EST): 2022-02-22 10:48:38.605377
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
 
 | Rank  | uniqname | Submission Time (UTC) | Total Instructions Executed |
 |---|---|---|---|
-| 1 | lmaksin | 2022-02-22 / 08:31:28.089975 | 692 |
+| 1 | lmaksin | 2022-02-22 / 15:36:46.792661 | 686 |
 | 2 | jiaweihe | 2022-02-22 / 14:17:35.894245 | 981 |
 | 3 | salikasl | 2022-02-22 / 05:10:21.007804 | 1091 |
 | 4 | heyix | 2022-02-21 / 08:13:45.296549 | 1290 |
@@ -41,7 +41,7 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 
 | Rank  | uniqname | Submission Time (UTC) | Total Instructions Executed |Lines of Code | Efficiency |
 |---|---|---|---|---|---|
-| 1 | lmaksin | 2022-02-22 / 08:31:28.089975 | 692 | 24 | 16608 |
+| 1 | lmaksin | 2022-02-22 / 15:36:46.792661 | 686 | 23 | 15778 |
 | 2 | salikasl | 2022-02-20 / 14:47:03.087177 | 1266 | 19 | 24054 |
 | 3 | heyix | 2022-02-21 / 15:40:09.701637 | 1390 | 20 | 27800 |
 | 4 | zeweiyu | 2022-02-20 / 23:12:13.153854 | 1570 | 23 | 36110 |
