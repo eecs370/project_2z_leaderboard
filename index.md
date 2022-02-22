@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-02-21 22:48:36.859407
+#### Last Updated (EST): 2022-02-21 23:48:59.329486
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -26,14 +26,14 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 5 | aidanxue | 2022-02-22 / 01:10:41.498574 | 1582 |
 | 6 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 |
 | 7 | mattbatw | 2022-02-17 / 17:15:07.056518 | 1816 |
-| 8 | alialmas | 2022-02-21 / 05:18:48.061749 | 2503 |
-| 9 | elytle | 2022-02-18 / 02:02:32.768286 | 2686 |
-| 10 | gshaurya | 2022-02-16 / 16:52:28.471468 | 2856 |
-| 11 | arjav | 2022-01-30 / 23:39:46.281054 | 3308 |
-| 12 | zengyw | 2022-02-19 / 21:47:16.153782 | 5338 |
-| 13 | joselvdm | 2022-02-21 / 01:13:39.758401 | 6212 |
-| 14 | crsnell | 2022-02-21 / 18:11:17.199123 | 31421 |
-| 15 | ltbirchm | 2022-02-12 / 07:29:53.454263 | 35167 |
+| 8 | jiaweihe | 2022-02-22 / 04:33:52.474497 | 1828 |
+| 9 | junhuang | 2022-02-22 / 04:29:46.447950 | 2496 |
+| 10 | alialmas | 2022-02-21 / 05:18:48.061749 | 2503 |
+| 11 | elytle | 2022-02-18 / 02:02:32.768286 | 2686 |
+| 12 | gshaurya | 2022-02-16 / 16:52:28.471468 | 2856 |
+| 13 | arjav | 2022-01-30 / 23:39:46.281054 | 3308 |
+| 14 | zengyw | 2022-02-19 / 21:47:16.153782 | 5338 |
+| 15 | joselvdm | 2022-02-21 / 01:13:39.758401 | 6212 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -49,11 +49,11 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 6 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 | 37 | 59533 |
 | 7 | mattbatw | 2022-02-20 / 21:54:42.134769 | 1868 | 38 | 70984 |
 | 8 | elytle | 2022-02-18 / 02:02:32.768286 | 2686 | 28 | 75208 |
-| 9 | alialmas | 2022-02-21 / 05:18:48.061749 | 2503 | 46 | 115138 |
-| 10 | gshaurya | 2022-02-16 / 16:52:28.471468 | 2856 | 44 | 125664 |
-| 11 | arjav | 2022-01-30 / 23:39:46.281054 | 3308 | 38 | 125704 |
-| 12 | zengyw | 2022-02-19 / 21:47:16.153782 | 5338 | 88 | 469744 |
-| 13 | joselvdm | 2022-02-21 / 01:13:39.758401 | 6212 | 125 | 776500 |
-| 14 | crsnell | 2022-02-21 / 18:11:17.199123 | 31421 | 36 | 1131156 |
-| 15 | ltbirchm | 2022-02-12 / 07:29:53.454263 | 35167 | 42 | 1477014 |
+| 9 | junhuang | 2022-02-22 / 04:29:46.447950 | 2496 | 33 | 82368 |
+| 10 | alialmas | 2022-02-21 / 05:18:48.061749 | 2503 | 46 | 115138 |
+| 11 | gshaurya | 2022-02-16 / 16:52:28.471468 | 2856 | 44 | 125664 |
+| 12 | arjav | 2022-01-30 / 23:39:46.281054 | 3308 | 38 | 125704 |
+| 13 | jiaweihe | 2022-02-22 / 04:33:52.474497 | 1828 | 98 | 179144 |
+| 14 | zengyw | 2022-02-19 / 21:47:16.153782 | 5338 | 88 | 469744 |
+| 15 | joselvdm | 2022-02-21 / 01:13:39.758401 | 6212 | 125 | 776500 |
 
