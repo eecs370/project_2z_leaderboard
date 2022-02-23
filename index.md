@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-02-22 19:48:50.998438
+#### Last Updated (EST): 2022-02-22 20:48:53.313909
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -29,11 +29,11 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 8 | aidanxue | 2022-02-22 / 01:10:41.498574 | 1582 |
 | 9 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 |
 | 10 | mattbatw | 2022-02-17 / 17:15:07.056518 | 1816 |
-| 11 | junhuang | 2022-02-22 / 04:29:46.447950 | 2496 |
-| 12 | alialmas | 2022-02-21 / 05:18:48.061749 | 2503 |
-| 13 | elytle | 2022-02-18 / 02:02:32.768286 | 2686 |
-| 14 | gshaurya | 2022-02-16 / 16:52:28.471468 | 2856 |
-| 15 | arjav | 2022-01-30 / 23:39:46.281054 | 3308 |
+| 11 | kfliu | 2022-02-23 / 01:29:46.206133 | 1922 |
+| 12 | junhuang | 2022-02-22 / 04:29:46.447950 | 2496 |
+| 13 | alialmas | 2022-02-21 / 05:18:48.061749 | 2503 |
+| 14 | elytle | 2022-02-18 / 02:02:32.768286 | 2686 |
+| 15 | gshaurya | 2022-02-16 / 16:52:28.471468 | 2856 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -49,11 +49,11 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 6 | jiaweihe | 2022-02-22 / 16:53:42.470111 | 756 | 37 | 27972 |
 | 7 | zeweiyu | 2022-02-20 / 23:12:13.153854 | 1570 | 23 | 36110 |
 | 8 | aidanxue | 2022-02-22 / 01:10:41.498574 | 1582 | 26 | 41132 |
-| 9 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 | 37 | 59533 |
-| 10 | mattbatw | 2022-02-20 / 21:54:42.134769 | 1868 | 38 | 70984 |
-| 11 | elytle | 2022-02-18 / 02:02:32.768286 | 2686 | 28 | 75208 |
-| 12 | junhuang | 2022-02-22 / 04:29:46.447950 | 2496 | 33 | 82368 |
-| 13 | alialmas | 2022-02-21 / 05:18:48.061749 | 2503 | 46 | 115138 |
-| 14 | gshaurya | 2022-02-16 / 16:52:28.471468 | 2856 | 44 | 125664 |
-| 15 | arjav | 2022-01-30 / 23:39:46.281054 | 3308 | 38 | 125704 |
+| 9 | kfliu | 2022-02-23 / 01:29:46.206133 | 1922 | 24 | 46128 |
+| 10 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 | 37 | 59533 |
+| 11 | mattbatw | 2022-02-20 / 21:54:42.134769 | 1868 | 38 | 70984 |
+| 12 | elytle | 2022-02-18 / 02:02:32.768286 | 2686 | 28 | 75208 |
+| 13 | junhuang | 2022-02-22 / 04:29:46.447950 | 2496 | 33 | 82368 |
+| 14 | alialmas | 2022-02-21 / 05:18:48.061749 | 2503 | 46 | 115138 |
+| 15 | gshaurya | 2022-02-16 / 16:52:28.471468 | 2856 | 44 | 125664 |
 
