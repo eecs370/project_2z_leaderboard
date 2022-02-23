@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-02-23 17:50:42.778733
+#### Last Updated (EST): 2022-02-23 18:49:34.822481
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -32,8 +32,8 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 11 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 |
 | 12 | raayanb | 2022-02-23 / 06:00:22.728714 | 1799 |
 | 13 | mattbatw | 2022-02-17 / 17:15:07.056518 | 1816 |
-| 14 | alexawan | 2022-02-23 / 17:36:48.123382 | 2476 |
-| 15 | junhuang | 2022-02-22 / 04:29:46.447950 | 2496 |
+| 14 | gmallak | 2022-02-23 / 23:28:05.773412 | 1934 |
+| 15 | alexawan | 2022-02-23 / 17:36:48.123382 | 2476 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -50,10 +50,10 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 7 | heyix | 2022-02-21 / 15:40:09.701637 | 1390 | 20 | 27800 |
 | 8 | zeweiyu | 2022-02-20 / 23:12:13.153854 | 1570 | 23 | 36110 |
 | 9 | aidanxue | 2022-02-22 / 01:10:41.498574 | 1582 | 26 | 41132 |
-| 10 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 | 37 | 59533 |
-| 11 | raayanb | 2022-02-23 / 06:00:22.728714 | 1799 | 35 | 62965 |
-| 12 | mattbatw | 2022-02-20 / 21:54:42.134769 | 1868 | 38 | 70984 |
-| 13 | elytle | 2022-02-18 / 02:02:32.768286 | 2686 | 28 | 75208 |
-| 14 | junhuang | 2022-02-22 / 04:29:46.447950 | 2496 | 33 | 82368 |
-| 15 | alexdela | 2022-02-23 / 05:23:08.376516 | 1038 | 83 | 86154 |
+| 10 | gmallak | 2022-02-23 / 23:28:05.773412 | 1934 | 23 | 44482 |
+| 11 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 | 37 | 59533 |
+| 12 | raayanb | 2022-02-23 / 06:00:22.728714 | 1799 | 35 | 62965 |
+| 13 | mattbatw | 2022-02-20 / 21:54:42.134769 | 1868 | 38 | 70984 |
+| 14 | elytle | 2022-02-18 / 02:02:32.768286 | 2686 | 28 | 75208 |
+| 15 | junhuang | 2022-02-22 / 04:29:46.447950 | 2496 | 33 | 82368 |
 
