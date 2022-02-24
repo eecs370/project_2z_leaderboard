@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-02-23 20:50:21.639262
+#### Last Updated (EST): 2022-02-23 21:49:17.340571
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -20,7 +20,7 @@ Accepted submissions ranked by the total number of instructions executed over se
 | Rank  | uniqname | Submission Time (UTC) | Total Instructions Executed |
 |---|---|---|---|
 | 1 | mackeywh | 2022-02-24 / 01:13:07.586467 | 272 |
-| 2 | jonwdan | 2022-02-23 / 21:38:29.825608 | 410 |
+| 2 | jonwdan | 2022-02-24 / 02:09:23.487246 | 386 |
 | 3 | jiaweihe | 2022-02-23 / 13:17:49.764426 | 534 |
 | 4 | ltbirchm | 2022-02-23 / 07:11:40.188799 | 596 |
 | 5 | lmaksin | 2022-02-22 / 15:36:46.792661 | 686 |
@@ -41,7 +41,7 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 
 | Rank  | uniqname | Submission Time (UTC) | Total Instructions Executed |Lines of Code | Efficiency |
 |---|---|---|---|---|---|
-| 1 | mackeywh | 2022-02-24 / 01:13:07.586467 | 272 | 45 | 12240 |
+| 1 | mackeywh | 2022-02-24 / 01:59:51.499377 | 272 | 41 | 11152 |
 | 2 | lmaksin | 2022-02-22 / 15:36:46.792661 | 686 | 23 | 15778 |
 | 3 | jonwdan | 2022-02-23 / 21:41:29.892648 | 437 | 39 | 17043 |
 | 4 | kfliu | 2022-02-23 / 18:24:39.594809 | 1298 | 17 | 22066 |
