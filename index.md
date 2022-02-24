@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-02-24 15:49:32.991972
+#### Last Updated (EST): 2022-02-24 16:49:44.678275
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -20,8 +20,8 @@ Accepted submissions ranked by the total number of instructions executed over se
 | Rank  | uniqname | Submission Time (UTC) | Total Instructions Executed |
 |---|---|---|---|
 | 1 | mackeywh | 2022-02-24 / 17:29:56.310642 | 264 |
-| 2 | jonwdan | 2022-02-24 / 02:09:23.487246 | 386 |
-| 3 | jiaweihe | 2022-02-23 / 13:17:49.764426 | 534 |
+| 2 | jiaweihe | 2022-02-24 / 21:11:17.594020 | 299 |
+| 3 | jonwdan | 2022-02-24 / 02:09:23.487246 | 386 |
 | 4 | ltbirchm | 2022-02-23 / 07:11:40.188799 | 596 |
 | 5 | lmaksin | 2022-02-22 / 15:36:46.792661 | 686 |
 | 6 | salikasl | 2022-02-23 / 19:50:03.586809 | 889 |
@@ -31,9 +31,9 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 10 | alialmas | 2022-02-24 / 03:43:57.117199 | 1493 |
 | 11 | jgettig | 2022-02-24 / 16:09:32.568613 | 1521 |
 | 12 | zeweiyu | 2022-02-20 / 23:12:13.153854 | 1570 |
-| 13 | aidanxue | 2022-02-22 / 01:10:41.498574 | 1582 |
-| 14 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 |
-| 15 | jarskiz | 2022-02-24 / 01:30:24.786387 | 1704 |
+| 13 | haochern | 2022-02-24 / 21:11:06.904862 | 1576 |
+| 14 | aidanxue | 2022-02-22 / 01:10:41.498574 | 1582 |
+| 15 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -50,10 +50,10 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 7 | ltbirchm | 2022-02-23 / 02:21:30.291612 | 690 | 35 | 24150 |
 | 8 | heyix | 2022-02-21 / 15:40:09.701637 | 1390 | 20 | 27800 |
 | 9 | zeweiyu | 2022-02-20 / 23:12:13.153854 | 1570 | 23 | 36110 |
-| 10 | aidanxue | 2022-02-22 / 01:10:41.498574 | 1582 | 26 | 41132 |
-| 11 | kyschnit | 2022-02-24 / 03:37:24.452909 | 1956 | 22 | 43032 |
-| 12 | gmallak | 2022-02-23 / 23:28:05.773412 | 1934 | 23 | 44482 |
-| 13 | haochern | 2022-02-24 / 18:31:37.978977 | 1970 | 30 | 59100 |
+| 10 | haochern | 2022-02-24 / 21:11:06.904862 | 1576 | 24 | 37824 |
+| 11 | aidanxue | 2022-02-22 / 01:10:41.498574 | 1582 | 26 | 41132 |
+| 12 | kyschnit | 2022-02-24 / 03:37:24.452909 | 1956 | 22 | 43032 |
+| 13 | gmallak | 2022-02-23 / 23:28:05.773412 | 1934 | 23 | 44482 |
 | 14 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 | 37 | 59533 |
 | 15 | alialmas | 2022-02-24 / 03:43:57.117199 | 1493 | 40 | 59720 |
 
