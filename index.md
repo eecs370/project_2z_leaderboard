@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-02-23 21:49:17.340571
+#### Last Updated (EST): 2022-02-23 22:50:17.397725
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -28,12 +28,12 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 7 | alexdela | 2022-02-23 / 05:23:08.376516 | 1038 |
 | 8 | heyix | 2022-02-21 / 08:13:45.296549 | 1290 |
 | 9 | kfliu | 2022-02-23 / 18:24:39.594809 | 1298 |
-| 10 | zeweiyu | 2022-02-20 / 23:12:13.153854 | 1570 |
-| 11 | aidanxue | 2022-02-22 / 01:10:41.498574 | 1582 |
-| 12 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 |
-| 13 | jarskiz | 2022-02-24 / 01:30:24.786387 | 1704 |
-| 14 | raayanb | 2022-02-23 / 06:00:22.728714 | 1799 |
-| 15 | mattbatw | 2022-02-17 / 17:15:07.056518 | 1816 |
+| 10 | alialmas | 2022-02-24 / 03:43:57.117199 | 1493 |
+| 11 | zeweiyu | 2022-02-20 / 23:12:13.153854 | 1570 |
+| 12 | aidanxue | 2022-02-22 / 01:10:41.498574 | 1582 |
+| 13 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 |
+| 14 | jarskiz | 2022-02-24 / 01:30:24.786387 | 1704 |
+| 15 | raayanb | 2022-02-24 / 03:36:35.277318 | 1755 |
 
 
 # 1. Submissions Ranked by Efficiency
@@ -51,9 +51,9 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 | 8 | heyix | 2022-02-21 / 15:40:09.701637 | 1390 | 20 | 27800 |
 | 9 | zeweiyu | 2022-02-20 / 23:12:13.153854 | 1570 | 23 | 36110 |
 | 10 | aidanxue | 2022-02-22 / 01:10:41.498574 | 1582 | 26 | 41132 |
-| 11 | gmallak | 2022-02-23 / 23:28:05.773412 | 1934 | 23 | 44482 |
-| 12 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 | 37 | 59533 |
-| 13 | raayanb | 2022-02-23 / 06:00:22.728714 | 1799 | 35 | 62965 |
-| 14 | mattbatw | 2022-02-20 / 21:54:42.134769 | 1868 | 38 | 70984 |
-| 15 | elytle | 2022-02-18 / 02:02:32.768286 | 2686 | 28 | 75208 |
+| 11 | kyschnit | 2022-02-24 / 03:37:24.452909 | 1956 | 22 | 43032 |
+| 12 | gmallak | 2022-02-23 / 23:28:05.773412 | 1934 | 23 | 44482 |
+| 13 | dejl | 2022-02-18 / 02:47:14.006468 | 1609 | 37 | 59533 |
+| 14 | alialmas | 2022-02-24 / 03:43:57.117199 | 1493 | 40 | 59720 |
+| 15 | raayanb | 2022-02-23 / 06:00:22.728714 | 1799 | 35 | 62965 |
 
