@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-02-25 14:49:30.368880
+#### Last Updated (EST): 2022-02-25 15:49:49.606720
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -21,19 +21,19 @@ Accepted submissions ranked by the total number of instructions executed over se
 |---|---|---|---|
 | 1 | mackeywh | 2022-02-24 / 17:29:56.310642 | 264 |
 | 2 | jiaweihe | 2022-02-24 / 21:11:17.594020 | 299 |
-| 3 | jonwdan | 2022-02-25 / 19:09:32.345835 | 367 |
+| 3 | jonwdan | 2022-02-25 / 20:29:54.402437 | 359 |
 | 4 | ltbirchm | 2022-02-23 / 07:11:40.188799 | 596 |
 | 5 | alexdela | 2022-02-25 / 05:41:32.115895 | 623 |
 | 6 | lmaksin | 2022-02-22 / 15:36:46.792661 | 686 |
 | 7 | salikasl | 2022-02-23 / 19:50:03.586809 | 889 |
-| 8 | alialmas | 2022-02-25 / 03:03:00.686496 | 1188 |
+| 8 | alialmas | 2022-02-25 / 20:20:24.265672 | 1172 |
 | 9 | heyix | 2022-02-21 / 08:13:45.296549 | 1290 |
-| 10 | kfliu | 2022-02-23 / 18:24:39.594809 | 1298 |
-| 11 | jgettig | 2022-02-24 / 16:09:32.568613 | 1521 |
-| 12 | zeweiyu | 2022-02-20 / 23:12:13.153854 | 1570 |
-| 13 | haochern | 2022-02-24 / 21:11:06.904862 | 1576 |
-| 14 | aidanxue | 2022-02-22 / 01:10:41.498574 | 1582 |
-| 15 | raayanb | 2022-02-25 / 04:17:36.399185 | 1582 |
+| 10 | raayanb | 2022-02-25 / 20:44:26.039610 | 1291 |
+| 11 | kfliu | 2022-02-23 / 18:24:39.594809 | 1298 |
+| 12 | jgettig | 2022-02-24 / 16:09:32.568613 | 1521 |
+| 13 | zeweiyu | 2022-02-20 / 23:12:13.153854 | 1570 |
+| 14 | haochern | 2022-02-24 / 21:11:06.904862 | 1576 |
+| 15 | aidanxue | 2022-02-22 / 01:10:41.498574 | 1582 |
 
 
 # 1. Submissions Ranked by Efficiency
