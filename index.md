@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-02-26 17:48:29.719611
+#### Last Updated (EST): 2022-02-26 18:48:29.397536
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
