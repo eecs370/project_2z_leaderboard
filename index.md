@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-10-07 18:15:02.904389
+#### Last Updated (EST): 2022-10-08 04:08:29.613542
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -25,15 +25,15 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 4 | umhychen | 2022-10-05 / 20:10:14.989255 | 732 |
 | 5 | kerrand | 2022-10-05 / 12:43:35.974388 | 930 |
 | 6 | oscarhua | 2022-09-26 / 04:26:09.408471 | 942 |
-| 7 | erzh | 2022-09-28 / 12:21:39.297808 | 1032 |
+| 7 | erzh | 2022-10-06 / 20:40:05.842746 | 1022 |
 | 8 | ziangli | 2022-10-05 / 11:12:50.358991 | 1188 |
 | 9 | maixu | 2022-10-04 / 13:09:16.845973 | 1273 |
 | 10 | ashwinak | 2022-10-01 / 23:50:50.498202 | 1320 |
-| 11 | danieldj | 2022-10-02 / 21:28:23.713550 | 1537 |
-| 12 | ldcmiga | 2022-10-01 / 20:11:28.401698 | 1569 |
-| 13 | marcusvc | 2022-10-06 / 17:16:51.160072 | 1581 |
-| 14 | jspishoc | 2022-09-24 / 22:34:27.710613 | 1611 |
-| 15 | pchrista | 2022-10-06 / 19:23:14.508550 | 1648 |
+| 11 | pchrista | 2022-10-07 / 04:00:47.699641 | 1447 |
+| 12 | danieldj | 2022-10-02 / 21:28:23.713550 | 1537 |
+| 13 | ldcmiga | 2022-10-01 / 20:11:28.401698 | 1569 |
+| 14 | marcusvc | 2022-10-06 / 17:16:51.160072 | 1581 |
+| 15 | jspishoc | 2022-09-24 / 22:34:27.710613 | 1611 |
 
 
 # 1. Submissions Ranked by Efficiency
