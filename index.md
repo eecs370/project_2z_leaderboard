@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-10-15 04:01:51.152343
+#### Last Updated (EST): 2022-10-17 04:04:53.820397
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -20,7 +20,7 @@ Accepted submissions ranked by the total number of instructions executed over se
 | Rank  | uniqname | Submission Time (UTC) | Total Instructions Executed |
 |---|---|---|---|
 | 1 | iansm | 2022-09-28 / 04:45:17.899954 | 194 |
-| 2 | riko | 2022-10-09 / 02:44:30.352224 | 234 |
+| 2 | riko | 2022-10-16 / 13:32:08.560752 | 217 |
 | 3 | ioi | 2022-10-09 / 22:00:12.412240 | 482 |
 | 4 | marcusvc | 2022-10-12 / 01:21:56.859368 | 629 |
 | 5 | qiling | 2022-10-04 / 14:08:53.681718 | 669 |
@@ -41,8 +41,8 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 
 | Rank  | uniqname | Submission Time (UTC) | Total Instructions Executed |Lines of Code | Efficiency |
 |---|---|---|---|---|---|
-| 1 | hufy | 2022-10-10 / 05:17:08.831184 | 702 | 22 | 15444 |
-| 2 | riko | 2022-09-30 / 04:06:23.795513 | 332 | 47 | 15604 |
+| 1 | riko | 2022-10-16 / 13:09:43.693768 | 332 | 46 | 15272 |
+| 2 | hufy | 2022-10-10 / 05:17:08.831184 | 702 | 22 | 15444 |
 | 3 | ioi | 2022-10-09 / 20:52:01.531216 | 581 | 29 | 16849 |
 | 4 | qiling | 2022-10-04 / 14:08:53.681718 | 669 | 29 | 19401 |
 | 5 | zhutao | 2022-10-09 / 17:01:55.322103 | 828 | 25 | 20700 |
