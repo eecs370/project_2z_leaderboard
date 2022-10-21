@@ -12,7 +12,7 @@ Notes:
 - It may take awhile for your latest submission to be reflected in the leaderboard. Note that you can see the total instructions executed for your program in the feedback from the autograder.
 
 
-#### Last Updated (EST): 2022-10-20 12:48:18.391338
+#### Last Updated (EST): 2022-10-21 04:11:11.689576
 
 # 0. Submissions Ranked by Total Instructions Executed
 Accepted submissions ranked by the total number of instructions executed over several inputs of C(n, r) (lower is better).
@@ -23,10 +23,10 @@ Accepted submissions ranked by the total number of instructions executed over se
 | 2 | riko | 2022-10-16 / 13:32:08.560752 | 217 |
 | 3 | dmpribak | 2022-10-19 / 04:23:36.903231 | 442 |
 | 4 | ioi | 2022-10-09 / 22:00:12.412240 | 482 |
-| 5 | marcusvc | 2022-10-12 / 01:21:56.859368 | 629 |
-| 6 | qiling | 2022-10-04 / 14:08:53.681718 | 669 |
-| 7 | hufy | 2022-10-17 / 17:28:15.183933 | 696 |
-| 8 | jiajuny | 2022-10-20 / 07:15:48.261239 | 697 |
+| 5 | jiajuny | 2022-10-20 / 16:52:19.975827 | 514 |
+| 6 | marcusvc | 2022-10-12 / 01:21:56.859368 | 629 |
+| 7 | qiling | 2022-10-04 / 14:08:53.681718 | 669 |
+| 8 | hufy | 2022-10-20 / 21:40:55.896237 | 684 |
 | 9 | kevinhua | 2022-10-18 / 03:30:14.503061 | 724 |
 | 10 | umhychen | 2022-10-05 / 20:10:14.989255 | 732 |
 | 11 | pchrista | 2022-10-08 / 21:53:50.597681 | 789 |
@@ -41,9 +41,9 @@ Accepted submissions ranked by efficiency, where efficiency = total instructions
 
 | Rank  | uniqname | Submission Time (UTC) | Total Instructions Executed |Lines of Code | Efficiency |
 |---|---|---|---|---|---|
-| 1 | jiajuny | 2022-10-20 / 07:15:48.261239 | 697 | 19 | 13243 |
-| 2 | riko | 2022-10-18 / 15:17:56.336234 | 746 | 19 | 14174 |
-| 3 | hufy | 2022-10-17 / 17:28:15.183933 | 696 | 21 | 14616 |
+| 1 | hufy | 2022-10-20 / 21:40:55.896237 | 684 | 19 | 12996 |
+| 2 | jiajuny | 2022-10-20 / 07:15:48.261239 | 697 | 19 | 13243 |
+| 3 | riko | 2022-10-18 / 15:17:56.336234 | 746 | 19 | 14174 |
 | 4 | ioi | 2022-10-09 / 20:52:01.531216 | 581 | 29 | 16849 |
 | 5 | qiling | 2022-10-04 / 14:08:53.681718 | 669 | 29 | 19401 |
 | 6 | zhutao | 2022-10-09 / 17:01:55.322103 | 828 | 25 | 20700 |
